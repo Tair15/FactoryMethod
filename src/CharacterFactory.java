@@ -1,0 +1,3 @@
+interface CharacterFactory {
+    Character createCharacter();
+}
